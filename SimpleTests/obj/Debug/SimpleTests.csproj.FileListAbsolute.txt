@@ -1,0 +1,14 @@
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\bin\Debug\SimpleTests.exe.config
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\bin\Debug\SimpleTests.exe
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\bin\Debug\SimpleTests.pdb
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\SimpleTests.csprojResolveAssemblyReference.cache
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\MainWindow.g.cs
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\App.g.cs
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\SimpleTests_MarkupCompile.cache
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\SimpleTests_MarkupCompile.lref
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\MainWindow.baml
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\SimpleTests.g.resources
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\SimpleTests.Properties.Resources.resources
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\SimpleTests.csproj.GenerateResource.Cache
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\SimpleTests.exe
+c:\users\mr.sali\documents\visual studio 2017\Projects\SimpleTests\SimpleTests\obj\Debug\SimpleTests.pdb

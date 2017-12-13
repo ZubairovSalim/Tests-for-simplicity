@@ -1,0 +1,35 @@
+﻿<Window x:Class="SimpleTests.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleTests"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="291.44" Width="482.782">
+    <StackPanel Orientation="Vertical">
+        <Label HorizontalAlignment="Center" FontSize="20" FontWeight="Bold">Вероятностные тесты простоты</Label>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,20">
+            <Label FontSize="16" Margin="0,0,32,0">Введите число для проверки:</Label>
+            <TextBox x:Name="txb_Number" Width="200"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,20">
+            <Label FontSize="16" Margin="0,0,65,0">Введите кол-во попыток:</Label>
+            <TextBox x:Name="txb_Count" Width="200"></TextBox>
+        </StackPanel>
+        <Button x:Name="btn_Check" Height="30" Width="200" FontSize="18" Click="btn_Check_Click">Проверка</Button>
+        <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+            <StackPanel Orientation="Vertical" Margin="0,0,60,0">
+                <Label FontSize="16">Тест на основе МТФ:</Label>
+                <Label FontSize="16">Тест Соловея-Штрассена:</Label>
+                <Label FontSize="16">Тест Раббина-Миллера:</Label>
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                <TextBox x:Name="txb_LTF" Width="200" Margin="0,6,0,10"></TextBox>
+                <TextBox x:Name="txb_Slv_Shtrsn" Width="200" Margin="0,0,0,10"></TextBox>
+                <TextBox x:Name="txb_Rbn_Mlr" Width="200"></TextBox>
+            </StackPanel>
+        </StackPanel>
+        
+       
+    </StackPanel>
+</Window>
